@@ -11,6 +11,8 @@ The challenge required replicating real browser behavior, including JavaScript e
 
 ## Installation Setup
 
+* Open Folder in Code Editer (Vs Code)
+
 * Create Virtual Enviroment and activate it
 
   ` python -m venv venv
